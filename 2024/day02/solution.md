@@ -1,7 +1,9 @@
 Some Basic Command of linux
+
 Today, I spent time learning some basic Linux commands, which are crucial for navigating and managing the file system. Below are some keywords I explored.
 
 Listing Commands
+
 ls -l: This command lists all the files in the directory in a long format, displaying detailed information about each file or directory.
 
 ls -a: This command lists all the hidden files in the directory.
@@ -13,6 +15,7 @@ ls -i: This command lists all the files in the directory with their index number
 ls -d*/: This command lists only the directories present in the current directory, displaying only the directory names, not their contents.
 
 Commands for Directory
+
 mkdir dir1: This command creates a directory named “dir1”.
 
 mkdir .Folder: This command creates a hidden directory named “Folder”.
